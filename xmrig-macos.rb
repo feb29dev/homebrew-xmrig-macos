@@ -1,4 +1,4 @@
-class XMRigMacOS < Formula
+class XmrigMacos < Formula
     desc "XMRig build for MacOS"
     homepage "https://github.com/feb29dev/xmrig"
     url "https://github.com/feb29dev/xmrig/releases/download/v2.10.0/xmrig-2.10.0-macos.tar.gz"
